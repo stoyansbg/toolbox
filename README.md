@@ -1,6 +1,14 @@
 # toolbox
 ## Overview
 Docker image with useful tools for troubleshooting Kubernetes workloads from within a cluster.
+
+Tools included:
+* MySQL client
+* NMAP
+* curl
+* mtr
+* DNS tools
+
 ## Use
 A pre-built image is available on Docker hub (stoyansbg/toolbox).  It can be used like this:
 ```
